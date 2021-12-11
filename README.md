@@ -1,6 +1,6 @@
 Hello!
 
-My Name is Ezequiel, but my friends tell-me Bonich. I'm from Argentina.
+My name is Ezequiel, but my friends tell-me Bonich. I'm from Argentina.
 
 - Front End Developer Jr
 - I'm currently focusing on Web development
@@ -9,7 +9,7 @@ My Name is Ezequiel, but my friends tell-me Bonich. I'm from Argentina.
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ezequielboninodesarrolladorfrontend/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequielboninodesarrolladorfrontend/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ezequielboninodesarrolladorfrontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequielboninodesarrolladorfrontend/" height="30" width="40" /></a>
 </p>
 <br>
 
