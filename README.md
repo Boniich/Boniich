@@ -14,7 +14,7 @@ My name is Ezequiel, but my friends tell-me Bonich. I'm from Argentina.
 </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielBonino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boniich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +22,6 @@ My name is Ezequiel, but my friends tell-me Bonich. I'm from Argentina.
 <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EzequielBonino)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boniich)](https://github.com/anuraghazra/github-readme-stats)
 
 
