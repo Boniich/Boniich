@@ -2,10 +2,10 @@ Hello!
 
 My name is Ezequiel, but my friends tell-me Bonich. I'm from Argentina.
 
-- Front End Developer Jr
-- I'm currently focusing on Web development
-- I'am on a continue process of creating personal projects, this allows me keep learning and getting better my skills.
-- You can see all my projects in https://ezequielbonino.github.io/Portfolio/SPA/index.html
+⚡️ Front End Developer Jr.  
+💪 I'm currently focusing on Web development.    
+📖 I'am on a continue process of creating personal projects, this allows me keep learning and getting better my skills.  
+💻 You can see all my projects in https://ezequielbonino.github.io/Portfolio/SPA/index.html 
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
