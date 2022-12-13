@@ -2,10 +2,9 @@ Hello!
 
 My name is Ezequiel, but my friends tell-me Bonich. I'm from Argentina.
 
-⚡️ Front End Developer Jr.  
-💪 I'm currently focusing on Web development.    
-📖 I'am on a continue process of creating personal projects, this allows me keep learning and getting better my skills.  
-🎯 Goals for 2022: Get into open scource projects, make group projects, and start to work as developer  
+⚡️ Game Developer (Unity) and Front End Developer
+💪 I'm currently focusing on Game Development with unity.    
+📖 I'am on a continue process of creating personal projects, this allows me keep learning and getting better my skills.   
 💻 You can see all my projects in https://boniich.github.io/Portfolio/
 
 <h3 align="left">🔗 Connect with me:</h3>
