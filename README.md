@@ -2,8 +2,8 @@ Hello!
 
 My name is Ezequiel, but my friends tell-me Bonich. I'm from Argentina.
 
-⚡️ Game Developer (Unity) and Front End Developer.    
-💪 I'm currently focusing on Game Development with unity.    
+⚡️ For now, i am just a Php (Laravel) and C++ developer.    
+💪 I'm currently focusing on Web Development and Game Development.    
 📖 I'am on a continue process of creating personal projects, this allows me keep learning and getting better my skills.   
 💻 You can see all my projects in www.boniich.com
 
