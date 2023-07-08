@@ -14,7 +14,7 @@ My name is Ezequiel, but my friends tell-me Bonich. I'm from Argentina.
 </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boniich&layout=compact&hide=shaderLab,HLSL,Blade)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boniich&layout=compact&hide=shaderLab,HLSL,Blade,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boniich)](https://github.com/anuraghazra/github-readme-stats)
