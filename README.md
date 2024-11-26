@@ -2,7 +2,7 @@ Hello!
 
 My name is Ezequiel, but my friends tell-me Bonich. I'm from Argentina.
 
-⚡️ Im am Freelance Programming Teaching and future Game Developer 
+⚡️ Im am Freelance Programming Teaching and future Game Developer.   
 💪 I'm currently focusing on my students and Game Development.    
 👀 Time to time I do Web Development 
 📖 I'am on a continue process of creating personal projects, this allows me keep learning and getting better my skills.   
