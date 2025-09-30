@@ -2,9 +2,9 @@ Hello!
 
 My name is Ezequiel, but my friends tell-me Bonich. I'm from Argentina.
 
-⚡️ Im am Freelance Programming Teaching  
+⚡️ I am a Freelance Programming Teacher  
 💪 I'm currently focusing on my students      
-💻 You can see all my projects in https://boniich.github.io/Portfolio/
+💻 You can see all my projects at https://boniich.github.io/Portfolio/
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
